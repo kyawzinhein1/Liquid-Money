@@ -1,0 +1,7 @@
+{
+  "name": "Glass Money",
+  "description": "iOS liquid crystal glass money management app to track expenses, savings goals, and spending analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
